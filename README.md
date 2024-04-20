@@ -22,7 +22,7 @@ To use the resources in this repository, follow these steps:
 
 
 ## Feedback
-If you have any feedback, suggestions, or issues, please open an [issue](https://github.com/[username]/resources/issues) in this repository. We're constantly looking to improve and value your input!
+If you have any feedback, suggestions, or issues, please open an [issue](https://github.com/rishabhworking/resources/issues) in this repository. We're constantly looking to improve and value your input!
 
 ## License
 All resources in this repository are distributed under the [MIT License](LICENSE.md), unless otherwise noted. This allows for both personal and commercial use, modification, and distribution.
