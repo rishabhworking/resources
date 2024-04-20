@@ -15,7 +15,7 @@ GitHub releases are a great way to distribute files and resources for several re
 To use the resources in this repository, follow these steps:
 
 ### Accessing Releases
-1. Navigate to the [Releases](https://github.com/[rishabhworking]/resources/releases) section of this repository.
+1. Navigate to the [Releases](https://github.com/rishabhworking/resources/releases/tag/downloads) section of this repository.
 2. Browse through the list of releases to find the one that suits your needs.
 3. Click on the release to view more details.
 4. Download the assets attached to the release.
